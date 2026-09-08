@@ -1,0 +1,6 @@
+{
+  "name": "FC 坦克大戰 1985 (Battle City)",
+  "description": "1985 年紅白機經典《坦克大戰》（Battle City）復刻版，包含 13x13 戰場、紅磚與鋼鐵障礙物、基地老鷹保衛、敵軍 AI、得分榜與 8-bit Web Audio 復古音效。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
